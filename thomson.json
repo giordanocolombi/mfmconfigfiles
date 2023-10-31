@@ -1,0 +1,38 @@
+{
+	"characteristics": {
+		"thomsonmaceid" 	: "MACE ID",
+		"issuername" 	: "Issue",
+		"coupon" 		: "Coupon",
+		"maturitydate" 	: "Maturity",
+		"putdate"		: "Put date",
+		"region"		: "Region",
+		"sector"		: "Sector",
+		"country"		: "Country",
+		"issuedate"		: "Issue Date",
+		"isexchangeable": "Exchangeable (Y/N)",
+		"ismandatory"	: "Mandatory (Y/N)"
+	},
+	"analytics": {
+		"cbprice" 		: "Convertible Price",
+		"creditspread" 	: "Credit Spread",
+		"inputvol"		: "Input Vol.",
+		"eqyield" 		: "Equity Yield",
+		"eqborrow"		: "Stock Borrow",
+		"theoprice"		:"Theo. Price",
+		"cheapness"		:"Edge to Theo.",
+		"impliedvol"	:"Implied Vol.",
+		"gamma"			:"Gamma",
+		"rho"			:"Rho (10bp)",
+		"vega"			:"Vega",
+		"undleqprice"	: "Equity Price",
+		"marketcapUSDm"	: "Market Cap (USDm)",
+		"parity"		:"Parity",
+		"eqpremium"		:"Conversion Premium",
+		"delta"			:"Delta",
+		"bondfloor"		:"Inv Value",
+		"bondfloorpremium":"Prem to Inv Val",
+		"duration": "Duration",
+		"durationnxtput":"Duration to Next Put/Mat.",
+		"yieldtomatput"	:"Yield to Mat/Put"
+	}
+}

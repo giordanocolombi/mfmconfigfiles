@@ -1,0 +1,21 @@
+{
+  "characteristics": {
+    "name"              : "Name",
+    "region"            : "Region",
+    "maturity"          : "Maturity",
+    "underlyingticker"  : "Underlying Ticker",
+    "issuesize"         : "Issue Size Bond Ccy (mm)",
+    "isunitpriced"      : "Unit priced ?"
+
+  },
+  "analytics": {
+		"cbprice_bid" 	: "Bid Px",
+		"cbprice_ask" 	: "Ask Px",
+		"delta"		    : "Delta",
+		"eqborrow"		: "Borrow",
+        "creditspread"	: "Credit",
+		"inputvol"		: "Vol",
+		"inputvol_upperstrike"  : "Vol Upper Strike",
+		"inputvol_lowerstrike"  : "Vol Lwr Strike"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"characteristics": {
+		"isunitpriced" 	: "Market price (P / %)"
+	},
+	"analytics": {
+		"cbprice" 		: "Market price in price currency"
+	}
+}
